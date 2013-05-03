@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Gleet::VERSION
   spec.authors       = ["Mike Anderson"]
   spec.email         = ["athaeryn@me.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "1337 c0mmi75."
+  spec.summary       = "A silly little gem to translate your git commit SHAs to leet."
   spec.homepage      = ""
   spec.license       = "MIT"
 

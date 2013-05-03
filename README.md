@@ -1,24 +1,21 @@
 # Gleet
 
-TODO: Write a gem description
+A silly little gem to list the short SHAs of a git repo's history translated to
+leet.
 
 ## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'gleet'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
 
     $ gem install gleet
 
 ## Usage
 
-TODO: Write usage instructions here
+From a git repository:
+
+    $ gleet
+
+To show the original SHAs as well, use the `-o` flag:
+
+    $ gleet -o
 
 ## Contributing
 
