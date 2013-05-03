@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require 'gleet'
+
+# ARGS
+
+Gleet::Main.go ARGV
+
+
+
+
