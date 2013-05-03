@@ -17,6 +17,11 @@ To show the original SHAs as well, use the `-o` flag:
 
     $ gleet -o
 
+## TODO
+
+- Improve the translation code.
+- If multiple translations are possible, add option to display them.
+
 ## Contributing
 
 1. Fork it
